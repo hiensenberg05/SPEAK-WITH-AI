@@ -154,4 +154,4 @@ The application expects the following environment variables:
 
 ## Contributors
 
-Developed by Team Innovators for the AI-Humanized Voicebot Hackathon.
+Developed by Team Core 4 Coders for the AI-Humanized Voicebot Hackathon.
